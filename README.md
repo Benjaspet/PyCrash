@@ -14,6 +14,8 @@ A crash course covering the basics of Python, made for a school Computer Science
   - Setting up Python
   - Using a programming environment
 - Course Outline
-  - Variables
-  - Typing
-  - 
+  - Section 1 ‒ The Basics
+    - Hello World
+    - Variables
+    - Typing
+    - Basic Math
